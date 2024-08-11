@@ -71,6 +71,7 @@ body{
     font-size: 14px;
     display: flex;
     align-items: center;
+    width: fit-content;
 }
 
 .logo-btn{
@@ -303,4 +304,5 @@ body{
 .querydetailcls{
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 10px;
 }
